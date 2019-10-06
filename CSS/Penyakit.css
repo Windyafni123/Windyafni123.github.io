@@ -1,0 +1,379 @@
+nav{
+	display: block;
+}
+header {
+	height: 160px;
+	background-color: #CCCCCC;
+}
+h1 {
+	text-indent: -9999px;
+	width: 940px;
+	height: 130px;
+	margin: 0px;
+}
+nav, footer {
+	clear: both;
+	color: #ffffff;
+	background-color: #CCCCCC;
+	height: 30px;
+}
+nav ul {
+	margin: 0px;
+	padding: 5px 0px 5px 30px;
+}
+nav li {
+	display: inline;
+	margin-right: 40px;
+}
+nav li a {
+	color: #ffffff;}
+nav li a:hover, nav li a.current {
+	color: #000000;}
+
+
+
+.navbar_1{
+	background-color: #4388CC;
+	padding: 1px;
+}
+
+
+
+.kotak1{
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background-color: lightblue;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 15px;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+
+.kotak2{
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background-color: lightblue;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 15px;
+}
+.kotak3{
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background-color: lightblue;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 15px;
+}
+.kotak4{
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background-color: lightblue;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 15px;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+.kotak5{
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background-color: lightblue;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 15px;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+.kotak6{
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background-color: lightblue;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 15px;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+.kotak7{
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background-color: lightblue;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 15px;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+.kotak8{
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background-color: lightblue;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 15px;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+.kotak9{
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background-color: lightblue;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 15px;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+.kotak10{
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background-color: lightblue;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 15px;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+.kotak11{
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background-color: lightblue;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 15px;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+.kotak12{
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background-color: lightblue;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 15px;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+.kotak13{
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background-color: lightblue;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 15px;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+.kotak14{
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background-color: lightblue;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 15px;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+.kotak15{
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background-color: lightblue;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 15px;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+.kotak16{
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background-color: lightblue;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 15px;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+.kotak17{
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background-color: lightblue;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 15px;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+.kotak18{
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background-color: lightblue;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 15px;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+.kotak19{
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background-color: lightblue;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 15px;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+.kotak20{
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background-color: lightblue;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 15px;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+.kotak21{
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background-color: lightblue;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 15px;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+.kotak22{
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background-color: lightblue;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 15px;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+.kotak23{
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background-color: lightblue;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 15px;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+.kotak24{
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background-color: lightblue;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 15px;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+.kotak25{
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background-color: lightblue;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 15px;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+.kotak26{
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background-color: lightblue;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 15px;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+.kotak27{
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background-color: lightblue;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 15px;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+.kotak28{
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background-color: lightblue;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 15px;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+body{
+	font-family: sans-serif;
+	background: #F2FFF3;
+}
+
