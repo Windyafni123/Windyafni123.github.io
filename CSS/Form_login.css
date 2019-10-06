@@ -1,0 +1,62 @@
+nav, footer {
+	clear: both;
+	color: #ffffff;
+	background-color: #CCCCCC;
+	height: 30px;
+}
+nav ul {
+	margin: 0px;
+	padding: 5px 0px 5px 30px;
+}
+nav li {
+	display: inline;
+	margin-right: 40px;
+}
+nav li a {
+	color: #ffffff;}
+nav li a:hover, nav li a.current {
+	color: #000000;}
+
+
+
+
+.kotak_login{
+	width: 20%;
+	background:transparent;
+	border: none;
+	margin bottom: 20%;
+	margin-top: 1%;
+	margin-right: 38%;
+	margin-left: 38%;
+	padding: 2% 2%;
+}
+.Form_login{
+	width: 100%;
+	height: auto;
+	font-size: 12pt;
+	margin-bottom: 20px;
+	padding: 1%;
+	color: black;
+}
+.navbar_1{
+	background-color: #4388CC;
+	padding: 1px;
+}
+body{
+	font-family: sans-serif;
+	background: #F2FFF3;
+}
+.Menu{
+	color: white;
+}
+.button_login{
+	text-align: center;
+	font-size: 18pt;
+}
+.Login{
+	font-size: 18pt;
+	color:black;
+	letter-spacing: 1px;
+	text-align: center;
+	margin-top: 5%;
+}
