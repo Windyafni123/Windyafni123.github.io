@@ -1,0 +1,74 @@
+nav{
+	display: block;
+}
+header {
+	height: 160px;
+	background-color: #CCCCCC;
+}
+h1 {
+	text-indent: -9999px;
+	width: 940px;
+	height: 130px;
+	margin: 0px;
+}
+nav, footer {
+	clear: both;
+	color: #ffffff;
+	background-color: #CCCCCC;
+	height: 30px;
+}
+nav ul {
+	margin: 0px;
+	padding: 5px 0px 5px 30px;
+}
+nav li {
+	display: inline;
+	margin-right: 40px;
+}
+nav li a {
+	color: #ffffff;}
+nav li a:hover, nav li a.current {
+	color: #000000;}
+
+
+
+.navbar_1{
+	background-color: #4388CC;
+	padding: 1px;
+}
+.tulisanPojok{
+	position: relative;
+	margin-left: 25px;
+    display: inline-block;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #4388CC;
+
+}
+  
+.gambar1{
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	margin-left: 5px;	
+}
+
+img.kiri{
+	float: left;
+	margin:5px;
+}
+
+img.tengah{
+	margin-left:55px;
+	margin-right:35px;
+}
+
+img.kanan{
+	float: right;
+	margin:5px;
+}
+body{
+	font-family: sans-serif;
+	background: #F2FFF3;
+}
+

@@ -1,0 +1,51 @@
+nav{
+	clear: both;
+	color: #ffffff;
+	background-color: #CCCCCC;
+	height: 30px;
+	display: block;
+}
+nav ul {
+	margin: 0px;
+	padding: 5px 0px 5px 30px;
+}
+nav li {
+	display: inline;
+	margin-right: 40px;
+}
+nav li a {
+	color: #ffffff;}
+nav li a:hover, nav li a.current {
+	color: #000000;}
+.navbar_1{
+	background-color: #4388CC;
+	padding: 1px;
+}
+body{
+	font-family: sans-serif;
+	background: #F2FFF3;
+	margin-top: 1px;
+
+}
+.head{
+	transform: translate(5px,30px);
+	color: #337ab7;
+}
+.button_k {
+    position:relative;
+    padding:6px 15px;
+    left:-3px;
+    border:2px solid #6495ED;
+    background-color: #6495ED;
+    color:#fafafa;
+    transform: translate(1px,350px);
+
+}
+.search {
+    padding:8px 15px;
+    background:rgba(50, 50, 50, 0.2);
+    border:0px solid #dbdbdb;
+    width: 1200px;
+    transform: translate(1px,350px);
+ 
+}

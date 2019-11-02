@@ -1,0 +1,101 @@
+nav{
+	clear: both;
+	color: #ffffff;
+	background-color: #CCCCCC;
+	height: 30px;
+	display: block;
+}
+nav ul {
+	margin: 0px;
+	padding: 5px 0px 5px 30px;
+}
+nav li {
+	display: inline;
+	margin-right: 40px;
+}
+nav li a {
+	color: #ffffff;}
+nav li a:hover, nav li a.current {
+	color: #000000;}
+.navbar_1{
+	background-color: #4388CC;
+	padding: 1px;
+}
+body{
+	font-family: sans-serif;
+	background: #F2FFF3;
+	margin-top: 1px;
+
+}
+article {
+	width: 100%;
+	transform: translate(500px,30px);
+}
+
+
+.konten{
+	font-size: 12pt;
+	color: #666666;
+	text-align: center;
+}
+.konten1{
+	font-size: 12pt;
+	color: #666666;
+	text-align: center;
+}
+.Welcome{
+	font-size: 18pt;
+	color:black;
+	font-weight: bold;
+}
+
+img.kiri1{
+	float: left;
+	margin-left:2%;
+	margin-right:80% ;
+	margin-bottom:75% ;
+	width: 300px;
+	height: 150px;
+	border:1px solid black;
+}
+img.kiri2{
+	float: left;
+	margin-left: 2%;
+	margin-right: 80%;
+	margin-bottom: 45%;
+	margin-top: 15%;
+	width: 300px;
+	height: 150px;
+	border:1px solid black;
+}
+img.kanan2{
+	float: right;
+	margin-left: 45%;
+	margin-right: 2%;
+	margin-bottom: 45%;
+	margin-top: 18%;
+	width: 300px;
+	height: 150px;
+	border:1px solid black;
+}
+.kanan1{
+	float:left;
+	margin-left: 80%;
+	margin-right: 2%;
+	margin-bottom: 75%;
+	width: 300px;
+	height: 150px;
+	border:1px solid black;
+}
+.pindahkanan1{
+	transform: translate(-100px,-1250px);
+}
+.pindahkanan2{
+	transform: translate(-40px,-3350px);
+}
+.pindahkanan3{
+	transform: translate(20px,-2355px);
+}
+.kiri1{
+	transform: translate(20px,-95px);
+}

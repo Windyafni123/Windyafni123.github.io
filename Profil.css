@@ -1,0 +1,57 @@
+nav{
+	clear: both;
+	color: #ffffff;
+	background-color: #CCCCCC;
+	height: 30px;
+	display: block;
+}
+nav ul {
+	margin: 0px;
+	padding: 5px 0px 5px 30px;
+}
+nav li {
+	display: inline;
+	margin-right: 40px;
+}
+nav li a {
+	color: #ffffff;}
+nav li a:hover, nav li a.current {
+	color: #000000;}
+.navbar_1{
+	background-color: #4388CC;
+	padding: 1px;
+}
+body{
+	font-family: sans-serif;
+	background: #F2FFF3;
+	margin-top: 1px;
+
+}
+.ikon1{
+	transform: translate(600px,50px)
+}
+.tulisan{
+	text-align: center;
+	transform: translate(-28px,0px);
+}
+.link-button1{
+	text-decoration: none;
+	background-color: #4388CC;
+	color: white;
+	padding: 5px 25px 5px 25px;
+	border: 1px solid #c2c2c2;
+	border-radius:2px;
+	position: relative;
+	font-size: 0.9rem;
+	margin-left: 20px;
+	text-align: center;
+}
+.bio{
+	transform: translate(470px,0px);
+}
+.ket{
+	transform: translate(550px,-184px);
+}
+.buttonchat{
+	transform: translate(575px,0px);
+}
