@@ -1,5 +1,4 @@
-nav, footer {
-	clear: both;
+nav{
 	color: #ffffff;
 	background-color: #CCCCCC;
 	height: 30px;
@@ -16,9 +15,6 @@ nav li a {
 	color: #ffffff;}
 nav li a:hover, nav li a.current {
 	color: #000000;}
-
-
-
 
 .kotak_login{
 	width: 20%;
@@ -46,9 +42,6 @@ body{
 	font-family: sans-serif;
 	background: #F2FFF3;
 }
-.Menu{
-	color: white;
-}
 .Login{
 	font-size: 18pt;
 	color:black;
@@ -63,7 +56,6 @@ body{
 	padding: 2px 5px 2px 5px;
 	border: 1px solid #c2c2c2;
 	border-radius:2px;
-	position: relative;
 	font-size: 0.9rem;
 	margin-left: 115px;
 }
