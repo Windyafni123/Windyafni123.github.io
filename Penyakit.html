@@ -3,6 +3,8 @@
 <head>
 	<link rel="stylesheet" href="Penyakit.css">
 	<title>Penyakit</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
 </head>
 <body>
 	<div class="navbar_1">
@@ -10,47 +12,240 @@
 		
 	</div>
 	<nav>
-		<ul>
-			<li><a href="index.html">Home</a></li>
-			<li><a href="" class="current">Penyakit</a></li>
-			<li><a href="Dokterku.html">Dokterku</a></li>
-			<li><a href="Seputar Kesehatan.html">Seputar Kesehatan</a></li>
-			<li><a href="Form_login.html">Login</a></li>
-			<li><a href="Form_Daftar.html">Register</a></li>
-		</ul>
+					<ul>
+						<li><a href="Home.html">Home</a></li>
+						<li><a href="" class="current">Penyakit</a></li>
+						<li><a href="Dokterku.html">Dokterku</a></li>
+						<li><a href="Seputar Kesehatan.html">Seputar Kesehatan</a></li>
+						<li><a href="Form_login.html">Login</a></li>
+						<li><a href="Form_Daftar.html">Register</a></li>
+					</ul>
 	</nav>
 	<form>
 		<input class="search" type="text" placeholder="Cari jenis penyakit" required>	
 		<input class="button" type="button" value="Cari">		
 	</form>
 	<p class="tulisanPojok"><b>Index Penyakit</b></p><br>
-	<div class="kotak1"><a href="">All</a></div>
-	<div class="kotak2"><a href="">A</a></div>
-	<div class="kotak3"><a href="">B</a></div>
-	<div class="kotak4"><a href="">C</a></div>
-	<div class="kotak5"><a href="">D</a></div>
-	<div class="kotak6"><a href="">E</a></div>
-	<div class="kotak8"><a href="">F</a></div>
-	<div class="kotak9"><a href="">G</a></div>
-	<div class="kotak10"><a href="">H</a></div>
-	<div class="kotak11"><a href="">I</a></div>
-	<div class="kotak12"><a href="">J</a></div>
-	<div class="kotak13"><a href="">K</a></div>
-	<div class="kotak14"><a href="">L</a></div>
-	<div class="kotak15"><a href="">M</a></div>
-	<div class="kotak16"><a href="">N</a></div>
-	<div class="kotak17"><a href="">O</a></div>
-	<div class="kotak18"><a href="">P</a></div>
-	<div class="kotak19"><a href="">Q</a></div>
-	<div class="kotak20"><a href="">R</a></div>
-	<div class="kotak21"><a href="">S</a></div>
-	<div class="kotak22"><a href="">T</a></div>
-	<div class="kotak23"><a href="">U</a></div>
-	<div class="kotak24"><a href="">V</a></div>
-	<div class="kotak25"><a href="">W</a></div>
-	<div class="kotak26"><a href="">X</a></div>
-	<div class="kotak27"><a href="">Y</a></div>
-	<div class="kotak28"><a href="">Z</a></div>
+	
+	<button id="All">All</button>	
+	<div class="All">
+		<p>Anemia<br>Batuk<br>Cacar</p>
+	</div>
 
+	<button id="A">A</button>	
+	<div class="A">
+		<p>Anemia<br>Amnesia<br>Ambeien</p>
+	</div>
+
+	<button id="B">B</button>	
+	<div class="B">
+		<p>Batuk<br>Bersin<br>Bentol</p>
+	</div>
+
+	<button id="C">C</button>	
+	<div class="C">
+		<p>Cacingan<br>Campak<br>Cacar</p>
+	</div>
+
+	<button id="D">D</button>	
+	<div class="D">
+		<p>Demam<br>Diare<br>Depresi</p>
+	</div>
+
+	<button id="E">E</button>	
+	<div class="E">
+		<p>Ebola<br>Epilepsi<br>Emboli</p>
+	</div>
+
+	<button id="F">F</button>	
+	<div class="F">
+		<p>Flu<br>Flu Burung<br>Flu Babi</p>
+	</div>
+
+	<button id="G">G</button>	
+	<div class="G">
+		<p>Gagal Ginjal<br>Gastritis<br>Gondok</p>
+	</div>
+
+	<button id="H">H</button>	
+	<div class="H">
+		<p>Hepatitis A<br>Hepatitis B<br>Hepatitis C</p>
+	</div>
+
+	<button id="I">I</button>	
+	<div class="I">
+		<p>Infeksi Kandung Kemih<br>Impotensi<br>Insomnia</p>
+	</div>
+
+	<button id="J">J</button>	
+	<div class="J">
+		<p>Jerawat<br>Jet Lag<br>Jamur Kulit</p>
+	</div>
+
+	<button id="K">K</button>	
+	<div class="K">
+		<p>Kanker Hati<br>Kanker Darah<br>Kanker Usus</p>
+	</div>
+
+	<button id="L">L</button>	
+	<div class="L">
+		<p>Laringitis<br>Leukimia<br>Lupus</p>
+	</div>
+
+	<button id="M">M</button>	
+	<div class="M">
+		<p>Malaria<br>Mati Rasa<br>Mata Ikan</p>
+	</div>
+
+	<button id="N">N</button>	
+	<div class="N">
+		<p>Nyeri Dada<br>Nyeri Punggung<br>Nyeri Sendi</p>
+	</div>
+
+	<button id="O">O</button>	
+	<div class="O">
+		<p>Osteoporosis<br>Obesitas<br>ODD</p>
+	</div>
+
+	<button id="P">P</button>	
+	<div class="P">
+		<p>Pusing<br>Panu<br>Patah Kaki</p>
+	</div>
+
+	<button id="Q">Q</button>	
+	<div class="Q">
+		<p>Null</p>
+	</div>
+
+	<button id="R">R</button>	
+	<div class="R">
+		<p>Rakitis<br>Radang Sendi<br>Rabies</p>
+	</div>
+
+	<button id="S">S</button>	
+	<div class="S">
+		<p>Sakit Kepala<br>Sakit Tenggorokan<br>Serangan Jantung</p>
+	</div>
+
+	<button id="T">T</button>	
+	<div class="T">
+		<p>TBC<br>Tipus<br>Tremor</p>
+	</div>
+
+	<button id="U">U</button>	
+	<div class="U">
+		<p>Usus Buntu<br>Uveitis<br>Ulkus Kornea</p>
+	</div>
+
+	<button id="V">V</button>	
+	<div class="V">
+		<p>Varises<br>Vertigo<br>Virus Zika</p>
+	</div>
+
+	<button id="W">W</button>	
+	<div class="W">
+		<p>Wasir<br>Williams Syndrome<br>Wilson Disease</p>
+	</div>
+
+	<button id="X">X</button>	
+	<div class="X">
+		<p>Xeropthalmia<br>Xanthelasma<br>Xerosis</p>
+	</div>
+
+	<button id="Y">Y</button>	
+	<div class="Y">
+		<p>Null</p>
+	</div>
+
+	<button id="Z">Z</button>	
+	<div class="Z">
+		<p>Zanamivir</p>
+	</div>
 </body>
+	<script type="text/javascript">
+	$(document).ready(function(){
+		$('#All').click(function(){
+			$('.All').toggle();
+		});		
+		$('#A').click(function(){
+			$('.A').toggle();
+		});		
+		$('#B').click(function(){
+			$('.B').toggle();
+		});			
+		$('#C').click(function(){
+			$('.C').toggle();
+		});	
+		$('#D').click(function(){
+			$('.D').toggle();
+		});	
+		$('#E').click(function(){
+			$('.E').toggle();
+		});	
+		$('#F').click(function(){
+			$('.F').toggle();
+		});	
+		$('#G').click(function(){
+			$('.G').toggle();
+		});	
+		$('#H').click(function(){
+			$('.H').toggle();
+		});	
+		$('#I').click(function(){
+			$('.I').toggle();
+		});	
+		$('#J').click(function(){
+			$('.J').toggle();
+		});	
+		$('#K').click(function(){
+			$('.K').toggle();
+		});	
+		$('#L').click(function(){
+			$('.L').toggle();
+		});	
+		$('#M').click(function(){
+			$('.M').toggle();
+		});	
+		$('#N').click(function(){
+			$('.N').toggle();
+		});	
+		$('#O').click(function(){
+			$('.O').toggle();
+		});	
+		$('#P').click(function(){
+			$('.P').toggle();
+		});	
+		$('#Q').click(function(){
+			$('.Q').toggle();
+		});	
+		$('#R').click(function(){
+			$('.R').toggle();
+		});	
+		$('#S').click(function(){
+			$('.S').toggle();
+		});	
+		$('#T').click(function(){
+			$('.T').toggle();
+		});	
+		$('#U').click(function(){
+			$('.U').toggle();
+		});	
+		$('#V').click(function(){
+			$('.V').toggle();
+		});	
+		$('#W').click(function(){
+			$('.W').toggle();
+		});	
+		$('#X').click(function(){
+			$('.X').toggle();
+		});	
+		$('#Y').click(function(){
+			$('.Y').toggle();
+		});	
+		$('#Z').click(function(){
+			$('.Z').toggle();
+		});	
+	});
+
+</script>
 </html>
