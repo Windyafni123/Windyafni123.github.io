@@ -3,6 +3,11 @@
 <head>
 	<link rel="stylesheet" href="Form_login.css">
 	<title>Form Login</title>
+	 <script>
+        function sayHello(){
+            alert("Selamat Datang dan Selamat Menikmati Layanan dari MedCall klik 'Ok' untuk melanjutkan.");
+        }
+    </script>
 </head>
 <body>
 	<div class="navbar_1">
@@ -11,7 +16,7 @@
 	</div>
 	<nav>
 		<ul>
-			<li><a href="index.html">Home</a></li>
+			<li><a href="Home.html">Home</a></li>
 			<li><a href="Penyakit.html">Penyakit</a></li>
 			<li><a href="Dokterku.html">Dokterku</a></li>
 			<li><a href="Seputar Kesehatan.html">Seputar Kesehatan</a></li>
@@ -28,11 +33,10 @@
 				<label class="teks">Password</label>
 				<input type="Password" class="Form_login"><br>
 
-				<a href="Penyakit.html" class="link-button">Masuk</a><br><br>
+				<button onclick="sayHello()"><a href="Penyakit.html">Masuk</a></button><br><br>
 
 				<a href="Form_Daftar.html" class="linkdaftar">Daftar<a/>
 	</form>
-	
 	</div>
 </body>
 </html>
