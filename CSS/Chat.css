@@ -1,9 +1,7 @@
 nav{
-	clear: both;
 	color: #ffffff;
 	background-color: #CCCCCC;
 	height: 30px;
-	display: block;
 }
 nav ul {
 	margin: 0px;

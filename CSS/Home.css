@@ -1,9 +1,8 @@
 nav{
-	clear: both;
 	color: #ffffff;
 	background-color: #CCCCCC;
-	height: 30px;
-	display: block;
+	height: 100%;
+	width: 100%;
 }
 nav ul {
 	margin: 0px;
@@ -28,11 +27,8 @@ body{
 
 }
 article {
-	width: 100%;
 	transform: translate(500px,30px);
 }
-
-
 .konten{
 	font-size: 12pt;
 	color: #666666;

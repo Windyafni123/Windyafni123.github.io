@@ -2,7 +2,6 @@ nav {
 	color: #ffffff;
 	background-color: #CCCCCC;
 	height: 30px;
-	display: block;
 }
 nav ul {
 	margin: 0px;
@@ -53,8 +52,6 @@ form{
 	transform: translate(-405px,0px);
 }
 
-
-
 .navbar_1{
 	background-color: #4388CC;
 	padding: 1px;
@@ -77,11 +74,7 @@ form{
 	color: grey;
 	left:-150px;
 	top:10px;
-
-
 }
-
-
 body{
 	font-family: sans-serif;
 	background: #F2FFF3;
@@ -93,7 +86,6 @@ body{
 	padding: 5px 15px 5px 15px;
 	border: 1px solid #c2c2c2;
 	border-radius:2px;
-	position: relative;
 	font-size: 0.9rem;
 	margin-left: 20px;
 }
@@ -104,7 +96,6 @@ body{
 	padding: 5px 15px 5px 15px;
 	border: 1px solid #c2c2c2;
 	border-radius:2px;
-	position: relative;
 	font-size: 0.9rem;
 	margin-left: 20px;
 }
@@ -115,7 +106,6 @@ body{
 	padding: 5px 15px 5px 15px;
 	border: 1px solid #c2c2c2;
 	border-radius:2px;
-	position: relative;
 	font-size: 0.9rem;
 	margin-left: 20px;
 }
@@ -126,7 +116,6 @@ body{
 	padding: 5px 15px 5px 15px;
 	border: 1px solid #c2c2c2;
 	border-radius:2px;
-	position: relative;
 	font-size: 0.9rem;
 	margin-left: 20px;
 }
@@ -137,7 +126,6 @@ body{
 	padding: 5px 15px 5px 15px;
 	border: 1px solid #c2c2c2;
 	border-radius:2px;
-	position: relative;
 	font-size: 0.9rem;
 	margin-left: 20px;
 }
@@ -148,7 +136,6 @@ body{
 	padding: 5px 15px 5px 15px;
 	border: 1px solid #c2c2c2;
 	border-radius:2px;
-	position: relative;
 	font-size: 0.9rem;
 	margin-left: 20px;
 }
@@ -159,7 +146,6 @@ body{
 	padding: 5px 15px 5px 15px;
 	border: 1px solid #c2c2c2;
 	border-radius:2px;
-	position: relative;
 	font-size: 0.9rem;
 	margin-left: 20px;
 }
@@ -170,7 +156,6 @@ body{
 	padding: 5px 15px 5px 15px;
 	border: 1px solid #c2c2c2;
 	border-radius:2px;
-	position: relative;
 	font-size: 0.9rem;
 	margin-left: 20px;
 }
@@ -181,29 +166,6 @@ body{
 	padding: 5px 15px 5px 15px;
 	border: 1px solid #c2c2c2;
 	border-radius:2px;
-	position: relative;
-	font-size: 0.9rem;
-	margin-left: 20px;
-}
-.link-button10{
-	text-decoration: none;
-	background-color: #eeeeee;
-	color: black;
-	padding: 5px 15px 5px 15px;
-	border: 1px solid #c2c2c2;
-	border-radius:2px;
-	position: relative;
-	font-size: 0.9rem;
-	margin-left: 20px;
-}
-.link-button11{
-	text-decoration: none;
-	background-color: #eeeeee;
-	color: black;
-	padding: 5px 15px 5px 15px;
-	border: 1px solid #c2c2c2;
-	border-radius:2px;
-	position: relative;
 	font-size: 0.9rem;
 	margin-left: 20px;
 }
