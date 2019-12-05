@@ -19,12 +19,11 @@ nav li a:hover, nav li a.current {
 .navbar_1{
 	background-color: #4388CC;
 	padding: 1px;
-	margin-top:2%;
 }
 body{
 	font-family: sans-serif;
 	background: #F2FFF3;
-	margin-top: 1px;
+	margin-top: 2%;
 }
 
 .clear{
