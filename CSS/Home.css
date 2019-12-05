@@ -23,7 +23,7 @@ nav li a:hover, nav li a.current {
 body{
 	font-family: sans-serif;
 	background: #F2FFF3;
-	margin-top: 0.05px;
+	margin-top: 1px;
 }
 
 .clear{
