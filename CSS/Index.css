@@ -40,12 +40,14 @@ body{
 	float: left;
 	width: 19%;
 	height: 30%;
+	display: inline-flex;
 }
 .sidebar2{
 	margin-top: 2%;
 	float: right;
 	width: 19%;
 	height: 30%;
+	display: inline-flex;
 }
 
 /*akhir sidebar*/
