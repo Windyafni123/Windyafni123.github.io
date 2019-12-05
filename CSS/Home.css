@@ -37,6 +37,7 @@ body{
 	float: left;
 	width: 19%;
 	height: 30%;
+	transform: translate(-1%,0%);
 }
 .sidebar2{
 	margin-top: 2%;
