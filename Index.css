@@ -1,0 +1,69 @@
+nav{
+	color: #ffffff;
+	background-color: #CCCCCC;
+	height: 100%;
+	width: 100%;
+}
+nav ul {
+	margin: 0px;
+	padding: 5px 0px 5px 30px;
+}
+nav li {
+	display: inline;
+	margin-right: 40px;
+}
+nav li a {
+	color: #ffffff;}
+nav li a:hover, nav li a.current {
+	color: #000000;}
+.navbar_1{
+	background-color: #4388CC;
+	padding: 1px;
+	margin-top: 0.5%;
+}
+body{
+	font-family: sans-serif;
+	background: #F2FFF3;
+	margin-top: 1px;
+}
+
+
+.clear{
+	clear: both;
+
+}
+
+
+/*bagian sidebar*/
+.sidebar{
+	margin-top:2%;
+	float: left;
+	width: 19%;
+	height: 30%;
+}
+.sidebar2{
+	margin-top: 2%;
+	float: right;
+	width: 19%;
+	height: 30%;
+}
+
+/*akhir sidebar*/
+
+.badan {
+	margin-top: 1%;
+	float: left;
+	width: 90%;
+	height: 60%;
+	padding:0.2%;
+}
+
+
+.content{
+	text-align: center;
+	margin-left: 25%;
+	margin-top: 4%;
+}
+img.gambar{
+	border: 1px solid black;
+}
