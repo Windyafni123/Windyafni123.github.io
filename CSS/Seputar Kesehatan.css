@@ -1,37 +1,28 @@
-header {
-	height: 160px;
-	background-color: #CCCCCC;
-}
-h1 {
-	text-indent: -9999px;
-	width: 940px;
-	height: 130px;
-	margin: 0px;
-}
-nav {
+nav{
 	color: #ffffff;
 	background-color: #CCCCCC;
-	height: 30px;
 }
 nav ul {
-	margin: 0px;
-	padding: 5px 0px 5px 30px;
+	margin: 0%;
+	padding: 0.5% 2%;
 }
 nav li {
 	display: inline;
-	margin-right: 40px;
+	padding-right: 2%; 
 }
 nav li a {
 	color: #ffffff;}
 nav li a:hover, nav li a.current {
 	color: #000000;}
-
-
-
+body{
+	font-family: sans-serif;
+	background: #F2FFF3;
+}
 .navbar_1{
 	background-color: #4388CC;
-	padding: 1px;
 }
+
+
 .tulisanPojok{
 	margin-left: 25px;
     font-size: 20px;

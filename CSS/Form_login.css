@@ -1,27 +1,35 @@
 nav{
 	color: #ffffff;
 	background-color: #CCCCCC;
-	height: 30px;
 }
 nav ul {
-	margin: 0px;
-	padding: 5px 0px 5px 30px;
+	margin: 0%;
+	padding: 0.5% 2%;
 }
 nav li {
 	display: inline;
-	margin-right: 40px;
+	padding-right: 2%; 
 }
 nav li a {
 	color: #ffffff;}
 nav li a:hover, nav li a.current {
 	color: #000000;}
+body{
+	font-family: sans-serif;
+	background: #F2FFF3;
+}
+.navbar_1{
+	background-color: #4388CC;
+}
+
 
 .kotak_login{
 	width: 20%;
 	background:transparent;
-	border: none;
+	border: 1.5px rgba(50, 50, 50, 0.2)solid;
+	border-radius: 10px;
 	margin bottom: 20%;
-	margin-top: 1%;
+	margin-top: 6%;
 	margin-right: 38%;
 	margin-left: 38%;
 	padding: 2% 2%;
@@ -29,36 +37,48 @@ nav li a:hover, nav li a.current {
 .Form_login{
 	width: 100%;
 	height: auto;
-	font-size: 12pt;
-	margin-bottom: 20px;
+	font-size: 1em;
+	margin-bottom: 10%;
 	padding: 1%;
 	color: black;
 }
-.navbar_1{
-	background-color: #4388CC;
-	padding: 1px;
-}
-body{
-	font-family: sans-serif;
-	background: #F2FFF3;
-}
 .Login{
-	font-size: 18pt;
+	font-size: 1.5em;
 	color:black;
-	letter-spacing: 1px;
+	letter-spacing: 0.1em;
 	text-align: center;
 	margin-top: 5%;
 }
-.link-button{
+.linkbutton{
 	text-decoration: none;
-	background-color: #eeeeee;
-	color: black;
-	padding: 2px 5px 2px 5px;
-	border: 1px solid #c2c2c2;
+	/*background-color: #eeeeee;*/
+	/*color: black;*/
+	padding: 1.5%;
+/*	padding: 5px 15px 5px 15px;*/
+	/*border: 1px solid #c2c2c2;*/
 	border-radius:2px;
 	font-size: 0.9rem;
-	margin-left: 115px;
+	/*margin-left: 20px;*/
+	border:0.14% solid #6495ED;
+    background-color: #6495ED;
+    color:#fafafa;
+    margin-left: 39.5%;
 }
-.linkdaftar{
-	margin-left: 120px;
+button{
+	text-decoration: none;
+	/*background-color: #eeeeee;*/
+	/*color: black;*/
+	padding: 1.5%;
+/*	padding: 5px 15px 5px 15px;*/
+	/*border: 1px solid #c2c2c2;*/
+	border-radius:2px;
+	font-size: 0.9rem;
+	/*margin-left: 20px;*/
+	border:0.14% solid #6495ED;
+    background-color: #6495ED;
+    margin-left: 38.2%;	
+}
+.text{
+	color: #fafafa;
+	text-decoration: none;
 }
