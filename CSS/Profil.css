@@ -23,30 +23,38 @@ body{
 }
 
 
-.ikon1{
-	transform: translate(600px,50px)
-}
-.tulisan{
-	text-align: center;
-	transform: translate(-28px,0px);
-}
-.link-button1{
-	text-decoration: none;
-	background-color: #4388CC;
-	color: white;
-	padding: 5px 25px 5px 25px;
-	border: 1px solid #c2c2c2;
-	border-radius:2px;
-	font-size: 0.9rem;
-	margin-left: 20px;
+
+.kotak_profil{
+	width: 30%;
+	background:transparent;
+	border: 1.5px rgba(50, 50, 50, 0.2)solid;
+	border-radius: 10px;
+	margin bottom: 5%;
+	margin-top: 2%;
+	margin-left: 34%;
+	padding: 2% 2%;
 	text-align: center;
 }
 .bio{
-	transform: translate(470px,0px);
+	width: 90%;
+	background:transparent;
+	margin bottom: 5%;
+	margin-top: 6%;
+	margin-right: 3%;
+	margin-left: 3%;
+	padding: 2% 2%;
+	text-align: center;
 }
-.ket{
-	transform: translate(550px,-184px);
+.linkbutton{
+	text-decoration: none;
+	padding: 1.5%;
+	font-size: 0.9rem;
+	border-radius:4px;
+	border:0.14% solid #6495ED;
+    background-color: #6495ED;
+    color:#fafafa;
+    text-align: center;
 }
-.buttonchat{
-	transform: translate(575px,0px);
+.color{
+	color:#6488CC;
 }
